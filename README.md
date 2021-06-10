@@ -1,5 +1,4 @@
-## Hi! I'm Naomi~!
-### I like to program a lot and do various analysis work.
+## Hi! I'm Lilith Naomi~!
 
 ![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=yretenai&show_icons=true&theme=dracula)
 
