@@ -1,2 +1,2 @@
-Hello, I am Lilith! I'm a backend **C#** developer learning **C++**.
+Hello, I am Naomi! I'm a backend **C#** developer learning **C++**.
 
