@@ -4,4 +4,4 @@ GPG:
 - [066E56D5C9F4E50D](https://raw.githubusercontent.com/yretenai/yretenai/develop/066E56D5C9F4E50D.gpg)
 
 Any repositories created by me that are not otherwise licensed are to be assumed as licensed
-as the [European Union Public License v1.2](https://eupl.eu/1.2/en) (EUPL-1.2). 
+as the [European Union Public License v1.2](https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/2020-03/EUPL-1.2%20EN.txt) (EUPL-1.2). 
