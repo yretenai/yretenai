@@ -1,4 +1,4 @@
-Hello, I am Ada! I'm a **C#, Python, C++ and Swift** software engineer. I specialize in reverse engineering and data pipelines, but I also do 3D modeling and game design!
+Hello, I am Ada! I'm a **C#, and Swift** software engineer. I specialize in reverse engineering and data pipelines, but I also do 3D modeling and game design!
 
 Ad Astra.
 🏳️‍⚧️ Trans rights are human rights.
