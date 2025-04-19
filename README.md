@@ -1,4 +1,4 @@
-A **C#, and Swift** software engineer. Specializing in reverse engineering games and constructing data pipelines, but also dabbling in 3D modeling and game design!
+A **C#, Rust and Swift** software engineer. Specializing in reverse engineering games and constructing data pipelines, but also dabbling in 3D modeling and game design!
 
 Ad Astra.
 
