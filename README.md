@@ -6,7 +6,6 @@ Ad Astra.
 
 GPG:
 - [066E56D5C9F4E50D](https://raw.githubusercontent.com/yretenai/yretenai/develop/066E56D5C9F4E50D.gpg)
-- [F4171186B7DA41B4](https://raw.githubusercontent.com/yretenai/yretenai/develop/F4171186B7DA41B4.gpg)
 - [A0EDBED9BAEF1A3F](https://raw.githubusercontent.com/yretenai/yretenai/develop/A0EDBED9BAEF1A3F.gpg)
 
 Any repositories created by me that are not otherwise licensed are to be assumed as licensed
