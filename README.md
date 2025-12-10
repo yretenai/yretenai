@@ -5,7 +5,7 @@ Ad Astra.
 🏳️‍⚧️ Trans rights are human rights.
 
 GPG:
-- [066E56D5C9F4E50D](https://raw.githubusercontent.com/yretenai/yretenai/develop/066E56D5C9F4E50D.gpg)
+- [9391906F7F3EF176](https://raw.githubusercontent.com/yretenai/yretenai/develop/9391906F7F3EF176.gpg)
 - [A0EDBED9BAEF1A3F](https://raw.githubusercontent.com/yretenai/yretenai/develop/A0EDBED9BAEF1A3F.gpg)
 
 Any repositories created by me that are not otherwise licensed are to be assumed as licensed
